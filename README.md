@@ -1,2 +1,3 @@
 # Misc
-A repository to save our content stuff that does not fit anywhere but should be in a repository for collaboration.
+
+[This project has been moved to GitLab! - See you there!](https://gitlab.com/n0r1sk/misc)
